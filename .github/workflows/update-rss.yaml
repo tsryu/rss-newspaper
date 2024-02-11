@@ -4,11 +4,13 @@ on:
   schedule:
     - cron: '0 0 * * *'  # once a day
   workflow_dispatch:  # Trigger for manual execution
-  
+
 jobs:
   update-rss-and-build:
+    concurrency: ci-${{ github.ref }}
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2

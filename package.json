@@ -43,5 +43,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://tsryu.github.io/rss-newspaper"
+  "homepage": "https://tsryu.github.io/rss-newspaper",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }

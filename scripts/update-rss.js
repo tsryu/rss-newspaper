@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const { fetchRssData } = require('../src/utils/rssUtil');
-const rssFeeds = require('../src/rssFeeds');
+const rssFeeds = require('../src/config/rssFeeds');
 
 const updateRssData = async () => {
   const allItems = {};

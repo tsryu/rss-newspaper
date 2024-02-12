@@ -1,6 +1,6 @@
 
 import rssData from './data/rssData.json';
-import './index.css';
+import webContent from './data/webContent.json';
 
 function getFormattedDate() {
   const koreanLocale = 'ko-KR';
@@ -12,6 +12,8 @@ function getFormattedDate() {
 }
 
 function App() {
+  const mergedObj = Object.assign(rssData, webContent);
+
   return (
     <div>
       <div className="head">
@@ -25,7 +27,7 @@ function App() {
       
       <div className='content'>
         <div className="columns">
-          {Object.entries(rssData)?.map(([sectionTitle, articles]) => {
+          {Object.entries(mergedObj)?.map(([sectionTitle, articles]) => {
             return articles?.length > 0 && <section key={sectionTitle} className='column'>
               <div className="head">
                 <div className="headline">{sectionTitle}</div>

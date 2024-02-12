@@ -105,6 +105,10 @@ font-size: 12px;
   overflow: hidden;
 }
 
+.article:visited .article-title {
+  color: #aaa;
+}
+
 /*________________________________________________________________________________________________________________________________*/
 /*MEDIAQUERIES*/
 @media only all and (max-width: 1200px) {

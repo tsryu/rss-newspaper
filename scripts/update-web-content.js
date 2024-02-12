@@ -3,31 +3,30 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 const path = require('path');
 
-const { webContentConfig, parseFunctions } = require('./config/webContent');
+const { webContent, parseFunctions } = require('../src/config/webContent');
 
-const updateWebContent = async (config) => {
-  const { websiteUrl, targetSelector, parseFunctionKey } = config;
+const updateWebContent = async () => {
+  const allContent = {};
 
-  try {
-    const response = await axios.get(websiteUrl);
-    const $ = cheerio.load(response.data);
-    const content = $(targetSelector).html();
+  for (const [title, url] of Object.entries(webContent)) {
+    try {
+      const response = await axios.get(url);
+      const $ = cheerio.load(response.data);
 
-    if (content) {
-      const parseFunction = parseFunctions[parseFunctionKey];
-      const parsedData = parseFunction(content);
-      const outputPath = path.resolve(__dirname, '../src/data/webContent.json');
-      fs.writeFileSync(outputPath, JSON.stringify({ content: parsedData }, null, 2));
-      console.log('Web content updated successfully for:', websiteUrl);
-    } else {
-      console.error('Target content not found on the website:', websiteUrl);
+      const parseFunction = parseFunctions[title];
+      const parsedData = parseFunction($);
+      allContent[title] = parsedData;
+      console.log('Web content updated successfully for:', url);
+    } catch (error) {
+      console.error('Error fetching web content:', error.message);
     }
-  } catch (error) {
-    console.error('Error fetching web content:', error.message);
   }
+
+  // Write all content to JSON file
+  const outputPath = path.resolve(__dirname, '../src/data/webContent.json');
+  fs.writeFileSync(outputPath, JSON.stringify(allContent, null, 2));
+  console.log('All web content updated successfully.');
 };
 
-// Process each configuration
-for (const config of webContentConfig) {
-  updateWebContent(config);
-}
+// Execute the updateWebContent function
+updateWebContent();

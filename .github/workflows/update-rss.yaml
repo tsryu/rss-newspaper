@@ -1,4 +1,4 @@
-name: Update RSS Data and Build
+name: Update data and Build
 
 on:
   schedule:
@@ -23,8 +23,11 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run update script
+      - name: Run update rss
         run: node scripts/update-rss.js
+
+      - name: Run update web content
+        run: node scripts/update-web-content.js
 
       - name: Build React app
         run: npm run build

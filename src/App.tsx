@@ -41,7 +41,7 @@ function App() {
                 // contentSnippet
               }) => {
                 return (
-                <a href={link} target='_blank' rel="noreferrer" key={title} className='article'>
+                <a href={link} rel="noreferrer" key={title} className='article'>
                   <h3 className='article-title'>{title}</h3>
                 </a>
                 )  

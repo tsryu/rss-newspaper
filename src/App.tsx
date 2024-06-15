@@ -2,8 +2,6 @@ import rssData from "./data/rssData.json";
 import webContent from "./data/webContent.json";
 import { mergeDeepLeft } from "ramda";
 import { RSSNews } from "./type/app";
-// import { Swiper, SwiperSlide } from 'swiper/react';
-// import 'swiper/css';
 
 function getFormattedDate() {
   const koreanLocale = "ko-KR";
@@ -15,7 +13,7 @@ function getFormattedDate() {
 }
 
 function App() {
-  const mergedObj: RSSNews = mergeDeepLeft(rssData, webContent);
+  const mergedObj = mergeDeepLeft(rssData, webContent) as RSSNews;
 
   return (
     <div>
@@ -36,7 +34,7 @@ function App() {
                     return (
                       <section key={sectionTitle} className="column">
                         <div className="head">
-                          <div className="headline">{sectionTitle}</div>
+                        <div className="headline">{sectionTitle}</div>
                         </div>
                         {articles?.map(
                           ({

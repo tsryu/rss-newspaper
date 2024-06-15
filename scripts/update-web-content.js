@@ -4,13 +4,18 @@ const fs = require("fs");
 const path = require("path");
 
 const { webContent, parseFunctions } = require("../src/config/webContent");
+const headers = {
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0'
+}
 
 const updateWebContent = async () => {
   const allContent = {};
 
   for (const { name, url, category } of webContent) {
     try {
-      const response = await axios.get(url);
+      const response = await axios.get(url, {
+        headers
+      });
       const $ = cheerio.load(response.data);
 
       const parseFunction = parseFunctions[name];

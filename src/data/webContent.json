@@ -1,13 +1,9 @@
 {
   "etc": {
-    "quasarzone": [
+    "Quasarzone": [
       {
         "link": "https://quasarzone.com/bbs/qn_hardware/views/1675397",
         "title": "인텔, 내부적으로 13/14세대 K CPU 불안정 문제 원인 발견, 새로운 BIOS 배포 예정"
-      },
-      {
-        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675021",
-        "title": "세계 최초의 RISC-V 노트북, 대규모 업그레이드를 통해 Ubuntu 탑재"
       },
       {
         "link": "https://quasarzone.com/bbs/qn_hardware/views/1675217",
@@ -22,32 +18,32 @@
         "title": "AMD Ryzen 9 7950X3D CPU 486달러로 하락"
       },
       {
-        "link": "https://quasarzone.com/bbs/qn_game/views/341897",
-        "title": "8억 3천 7백만 달러 소송, 밸브의 스팀이 PC 게이머들에게 과다 청구했다고 주장"
-      },
-      {
         "link": "https://quasarzone.com/bbs/qn_mobile/views/288380",
         "title": "갤럭시 Z 폴드 6 사양 유출, 전작 대비 크게 개선된 점 없음"
-      },
-      {
-        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675069",
-        "title": "MSI, 새로운 MAG Infinite E1 게이밍 데스크탑 발표"
-      },
-      {
-        "link": "https://quasarzone.com/bbs/qn_mobile/views/288399",
-        "title": "[루머]삼성, 두 나라에서 갤럭시 Z 폴드 6 울트라 출시 예정"
       },
       {
         "link": "https://quasarzone.com/bbs/qn_hardware/views/1675121",
         "title": "삼성 컬러 전자종이(Color E-Paper) 공개: 저전력 소비의 혁신적인 디스플레이"
       },
       {
-        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675094",
-        "title": "Snapdragon X Elite는 iPhone 12보다 느림"
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675069",
+        "title": "MSI, 새로운 MAG Infinite E1 게이밍 데스크탑 발표"
       },
       {
         "link": "https://quasarzone.com/bbs/qn_hardware/views/1675278",
         "title": "PCIe 6.0 및 7.0 표준이 장애물에 부딪혔습니다"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_mobile/views/288399",
+        "title": "[루머]삼성, 두 나라에서 갤럭시 Z 폴드 6 울트라 출시 예정"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675094",
+        "title": "Snapdragon X Elite는 iPhone 12보다 느림"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675394",
+        "title": "리안 리, 전 세계 6498개 한정 O11 EVO RGB Automobili Lamborghini 케이스 출시"
       },
       {
         "link": "https://quasarzone.com/bbs/qn_game/views/342152",
@@ -58,12 +54,12 @@
         "title": "일본, Android 및 iOS에서 타사 앱 스토어를 허용하는 새로운 법률 통과"
       },
       {
-        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675394",
-        "title": "리안 리, 전 세계 6498개 한정 O11 EVO RGB Automobili Lamborghini 케이스 출시"
-      },
-      {
         "link": "https://quasarzone.com/bbs/qn_mobile/views/288378",
         "title": "이제 배터리가 방전된 상태에서도 아이폰에 시간이 표시됨"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675463",
+        "title": "\"세금 돌려받으라더니\"…삼쩜삼, 징계 1년 후에도 개인정보 논란"
       },
       {
         "link": "https://quasarzone.com/bbs/qn_hardware/views/1675352",
@@ -76,6 +72,176 @@
       {
         "link": "https://quasarzone.com/bbs/qn_hardware/views/1675183",
         "title": "SK하이닉스, 경쟁사에 맞춰 4분기에 GDDR7 메모리 출시 예정"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_mobile/views/288470",
+        "title": "갤럭시 Z 플립 6 사양 유출"
+      }
+    ],
+    "Mule": [
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/base?v=v&idx=62774218&page=&qf=&q=",
+        "title": "베이스 입문하시는 분들께..."
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62812022&page=&qf=&q=",
+        "title": "무료나눔 - POD XT 엉덩이 버전!"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62784052&page=&qf=&q=",
+        "title": "[나눔]던롭 스트랩락 나눔 목요일 추첨"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/base?v=v&idx=62801677&page=&qf=&q=",
+        "title": "베이스 퀴즈 앱을 만들어봤습니다"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62777089&page=&qf=&q=",
+        "title": "1940년 생산 빈티지 와이어 나눔합니다"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/video?v=v&idx=62808677&page=&qf=&q=",
+        "title": "40대 아저씨의 Mr Crowley"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62793392&page=&qf=&q=",
+        "title": "용기를 내서 점거했습니다"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62807715&page=&qf=&q=",
+        "title": "[300렙 기념 나눔] USB 무선 미디"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62802151&page=&qf=&q=",
+        "title": "역대급 비매너 거래상대를 만났습니다."
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62818755&page=&qf=&q=",
+        "title": "강추 했습니다!!"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62792746&page=&qf=&q=",
+        "title": "고등학생 슈게이징 정규앨범 냈습니다!!"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/gallery?v=v&idx=62789075&page=&qf=&q=",
+        "title": "22세 여대생 첫 페달입니다."
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/base?v=v&idx=62790153&page=&qf=&q=",
+        "title": "자기 악기(장비) 자랑해보아요"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62814812&page=&qf=&q=",
+        "title": "기타레슨 선생님이 선물을 주셨습니다 ㅠ"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62795152&page=&qf=&q=",
+        "title": "울 아가 소식 ..."
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/video?v=v&idx=62811680&page=&qf=&q=",
+        "title": "Bold As Love (Jimi Hendrix, John Mayer Ver Cover) - Bora"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62777013&page=&qf=&q=",
+        "title": "[나눔완료] 고장난 AD10 딜레이 나눔 합니다."
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/video?v=v&idx=62789284&page=&qf=&q=",
+        "title": "[기타네트-70주년 스트랫 챌린지]-작은맹수"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62778556&page=&qf=&q=",
+        "title": "판매자와 통화했습니다"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62819861&page=&qf=&q=",
+        "title": "남의 악기 빌려가놓고"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62783663&page=&qf=&q=",
+        "title": "비매너 구매자..."
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62775277&page=&qf=&q=",
+        "title": "기타 사왔습니다."
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62808306&page=&qf=&q=",
+        "title": "(완료)이런거 나눔 되나요? 픽업어셈블리+헤드머신"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62793898&page=&qf=&q=",
+        "title": "페달라이저 두개 나눔합니다 ."
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=62806955&page=&qf=&q=",
+        "title": "[한겨레] 법원 “쌍방울 송금은 이재명 방북 사례금” 맞아"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/gallery?v=v&idx=62788879&page=&qf=&q=",
+        "title": "드디어 받았습니다^^"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62820086&page=&qf=&q=",
+        "title": "마감. 나눔) 자작페달 미완성분"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/writer?v=v&idx=62791855&page=&qf=&q=",
+        "title": "스피드메탈 정규 앨범 티저를 공개 했습니다."
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/mulein?v=v&idx=62798659&page=&qf=&q=",
+        "title": "[나눔] 52텔레/67플라잉브이 픽가드"
+      },
+      {
+        "link": "https://www.mule.co.kr/bbs/comm/politics?v=v&idx=62820564&page=&qf=&q=",
+        "title": "누구 거?"
+      }
+    ]
+  },
+  "news": {
+    "Naver World Football": [
+      {
+        "link": "https://m.sports.naver.com/article/477/0000496005",
+        "title": "토트넘 동료의 충격적인 인종차별→벤탄쿠르, 손흥민에 사과 \"미안해, 나쁜 농담이었다\""
+      },
+      {
+        "link": "https://m.sports.naver.com/article/241/0003357401",
+        "title": "‘인성 문제?’ 교체된 뒤 벤치 찬 벤탄쿠르, 이번에는 SON 소재 인종차별 논란 “형제여, 미안하다”"
+      },
+      {
+        "link": "https://m.sports.naver.com/article/117/0003841278",
+        "title": "[오피셜] '충격' UCL 결승 앞두고 감독과 불화...'돌문 레전드' 훔멜스, 13년 헌신 끝에 방출 \"특별함 그 이상의 구단\""
+      },
+      {
+        "link": "https://m.sports.naver.com/article/076/0004157039",
+        "title": "'개인합의까지 했는데' 맨유, 초대형 CB 놓칠 위기.. 반값인 600억원 오퍼에 에버턴은 '받아들일 수 없는 제안'"
+      },
+      {
+        "link": "https://m.sports.naver.com/article/425/0000150269",
+        "title": "\"한국 오지 마라!\" \"농담이 아니라 모욕적 발언\" \"24시간짜리 사과\" 벤탄쿠르 인종차별적 발언 '일파만파'...손흥민 반응은?"
+      },
+      {
+        "link": "https://m.sports.naver.com/article/117/0003841268",
+        "title": "'포스테코글루가 은돔벨레 버린 진짜 이유 드러났다'…감독도 처음에는 반했다, 붙잡으려 하다 돌변! 왜?"
+      },
+      {
+        "link": "https://m.sports.naver.com/article/436/0000087411",
+        "title": "\"시간이 멈췄다\" 호날두가 맹비난한 맨유 훈련장, 새 구단주가 880억에 개혁 시작"
+      },
+      {
+        "link": "https://m.sports.naver.com/article/144/0000968656",
+        "title": "패스 시도 102회에 성공이 무려 101회, 눈부신 ‘라스트 댄스’를 꿈꾸는 크로스···‘교수님’, 정말 은퇴해야합니까[유로2024X스타]"
+      },
+      {
+        "link": "https://m.sports.naver.com/article/410/0001005468",
+        "title": "‘쏘니’ 향한 인종차별적 발언 그 후…벤탄쿠르, SNS 사과했지만 무성의 논란→팬들도 ‘극대노’"
+      },
+      {
+        "link": "https://m.sports.naver.com/article/436/0000087413",
+        "title": "'다녀왔습니다' 10년 만에 돌아온 랄라나, 아들과 함께 사우샘프턴에서 말년 보낸다"
       }
     ]
   }

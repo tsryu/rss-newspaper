@@ -1,80 +1,82 @@
 {
-  "quasarzone": [
-    {
-      "link": "https://quasarzone.com/bbs/qn_hardware/views/1625376",
-      "title": "\"中 남자와 결혼할래요\"…미녀 인플루언서 실체에 '패닉'"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_hardware/views/1625405",
-      "title": "MSI GeForce RTX 4070 SUPER Gaming X Slim MLG 12GB 그래픽 카드 검토 - 슬림 & 애니메이션"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_hardware/views/1625412",
-      "title": "Intel CPU는 새로운 보안 수정으로 인해 약간의 성능 손실이 발생합니다."
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_hardware/views/1625375",
-      "title": "\"이제 뭐해 먹고 사냐\"…AI가 만든 압도적 영상에 '아연실색'"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_hardware/views/1625383",
-      "title": "NVIDIA, 다음 주 GTC 2024에서 차세대 Blackwell AI GPU 공개"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_mobile/views/276097",
-      "title": "갤럭시 S24+ Accessory 붕괴: 스타레일 - 은랑 에디션 출시!"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_hardware/views/1625462",
-      "title": "애플, 최강 성능 '이미지-텍스트' 모델 공개...\"30B로 GPT-4·제미나이 능가\""
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_game/views/322623",
-      "title": "에픽게임즈 런처, 2024년 6월 Windows 7, 8, 10(32비트) 지원 종료 예정"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_hardware/views/1625510",
-      "title": "삼성 DRAM 사업부는 더 높은 생산 수준을 기대하면서 회복 방향으로 나아갑니다"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_hardware/views/1625451",
-      "title": "'반도체 봄' 온다…삼성전자 반도체, 1년만에 적자 탈출 눈앞"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_game/views/322596",
-      "title": "[리뷰] 사람을 타임머신 태우는 중독적인 게임, ‘유니콘 오버로드’"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_mobile/views/276113",
-      "title": "6년 전 쿡 CEO 발언 때문에…애플, 4억9000만달러 배상 합의"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_mobile/views/276112",
-      "title": "갤럭시Z플립 6, 주요 사양 또 유출…특징 봤더니"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_mobile/views/276119",
-      "title": "삼성전자, ‘갤럭시 A15 LTE’ 국내 출시"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_hardware/views/1625609",
-      "title": "AMD Ryzen 5 5600G APU, 중국에서 Ryzen 5 5500GT보다 저렴한 가격에 판매 중"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_game/views/322595",
-      "title": "글로벌서 우뚝 선 '나이트 크로우', 동접 25만 명 육박... '미르4' 넘겼다"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_game/views/322575",
-      "title": "라이엇 \"내년부터 LCK 모든 팀에 디지털 수익 배분\""
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_mobile/views/276158",
-      "title": "[루머] 갤럭시 S25 기본 모델은 전작보다 더 큰 디스플레이 탑재"
-    },
-    {
-      "link": "https://quasarzone.com/bbs/qn_hardware/views/1625580",
-      "title": "Apple의 Butterfly 키보드 수리 프로그램이 종료"
-    }
-  ]
+  "etc": {
+    "quasarzone": [
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675397",
+        "title": "인텔, 내부적으로 13/14세대 K CPU 불안정 문제 원인 발견, 새로운 BIOS 배포 예정"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675021",
+        "title": "세계 최초의 RISC-V 노트북, 대규모 업그레이드를 통해 Ubuntu 탑재"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675217",
+        "title": "XFX, AMD Radeon RX GPU용 탈착식 쿨러 그래픽카드 티저 공개"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_mobile/views/288381",
+        "title": "[루머] 갤럭시 Z 폴드 6 더미 유출"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675171",
+        "title": "AMD Ryzen 9 7950X3D CPU 486달러로 하락"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_game/views/341897",
+        "title": "8억 3천 7백만 달러 소송, 밸브의 스팀이 PC 게이머들에게 과다 청구했다고 주장"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_mobile/views/288380",
+        "title": "갤럭시 Z 폴드 6 사양 유출, 전작 대비 크게 개선된 점 없음"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675069",
+        "title": "MSI, 새로운 MAG Infinite E1 게이밍 데스크탑 발표"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_mobile/views/288399",
+        "title": "[루머]삼성, 두 나라에서 갤럭시 Z 폴드 6 울트라 출시 예정"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675121",
+        "title": "삼성 컬러 전자종이(Color E-Paper) 공개: 저전력 소비의 혁신적인 디스플레이"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675094",
+        "title": "Snapdragon X Elite는 iPhone 12보다 느림"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675278",
+        "title": "PCIe 6.0 및 7.0 표준이 장애물에 부딪혔습니다"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_game/views/342152",
+        "title": "브래지어에 닌텐도 스위치 게임 카드 350장을 숨겨 밀수하다 적발된 여성"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_mobile/views/288411",
+        "title": "일본, Android 및 iOS에서 타사 앱 스토어를 허용하는 새로운 법률 통과"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675394",
+        "title": "리안 리, 전 세계 6498개 한정 O11 EVO RGB Automobili Lamborghini 케이스 출시"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_mobile/views/288378",
+        "title": "이제 배터리가 방전된 상태에서도 아이폰에 시간이 표시됨"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675352",
+        "title": "AMD 특허 구성 가능 멀티 칩렛 GPU: 이미지는 3개의 다이를 보여줍니다"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675348",
+        "title": "기가바이트, 새로운 게이밍 케이스 AORUS C400 GLASS 출시"
+      },
+      {
+        "link": "https://quasarzone.com/bbs/qn_hardware/views/1675183",
+        "title": "SK하이닉스, 경쟁사에 맞춰 4분기에 GDDR7 메모리 출시 예정"
+      }
+    ]
+  }
 }

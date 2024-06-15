@@ -15,8 +15,12 @@ const parseFunctions = {
   },
 };
 
-const webContent = {
-  quasarzone: "https://quasarzone.com",
-};
+const webContent = [
+  {
+    name: "quasarzone",
+    url: "https://quasarzone.com",
+    category: "etc",
+  },
+];
 
 module.exports = { webContent, parseFunctions };

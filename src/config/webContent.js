@@ -67,11 +67,11 @@ const webContent = [
     url: "https://sports.news.naver.com/wfootball/news/index?isphoto=N&type=popular",
     category: "news",
   },
-  {
-    name: "Mule",
-    url: "https://www.mule.co.kr/best/weekly",
-    category: "etc",
-  },
+  // {
+  //   name: "Mule",
+  //   url: "https://www.mule.co.kr/best/weekly",
+  //   category: "etc",
+  // },
   // {
   //   name: "Kinolights",
   //   url: "https://m.kinolights.com/ranking/kino",

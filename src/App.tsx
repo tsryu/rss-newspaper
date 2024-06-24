@@ -51,6 +51,7 @@ function App() {
                                 rel="noreferrer"
                                 key={title}
                                 className="article"
+                                target="_blank"
                               >
                                 <h3 className="article-title">{title}</h3>
                               </a>
